@@ -1,0 +1,78 @@
+{ "data":{
+
+
+    "doctors": [
+        {
+            "name": "Thibault LELONG",
+            "speciality": "Médecin généraliste",
+            "phone": "09 81 81 11 31",
+            "address": "13 Rue des Écoles, 21490 Ruffey-lès-Echirey"
+    
+        },
+        {
+            "name": "Bernard LELONG",
+            "speciality": "Chirurgien",
+            "phone": "04 91 22 36 60",
+            "address": "232 Boulevard de Sainte-Marguerite 13009 Marseille"
+    
+        },
+        {
+            "name": "Leslie LELONG",
+            "speciality": "Médecin généraliste",
+            "phone": "05 55 39 82 12",
+            "address": "39 Rue DE LIMOGES 87340 La Jonchère-Saint-Maurice"
+        },
+        {
+            "name": "Nicolas LECLERCQ",
+            "speciality": "Chirurgien orthopédiste et traumatologue",
+            "phone": "02 38 79 63 52",
+            "address": "551 Avenue Jacqueline Auriol 45770 Saran"
+    
+        },
+    
+        {
+            "name": "Patrick Houvet",
+            "speciality": "Chirurgien orthopédiste et traumatologue",
+            "phone": "01 53 65 53 53",
+            "address": "Clinique Victor Hugo IFCM 5 Rue du Dôme, 75116 Paris"
+    
+        },
+    
+    
+        {
+            "name": "Luc LELONG",
+            "speciality": "Chirurgien viscéral et digestif",
+            "phone": "05 40 07 83 88",
+            "address": "2 Allée Docteur Robert Lafon, 64100 Bayonne"
+        }
+        ],
+    
+        "services": [
+        {
+            "name": "service ophtalmologie lelong",
+            "speciality": "ophtalmologie ",
+            "phone": "09 81 81 31 11",
+            "address": "13 Rue des Écoles, 21490 Ruffey-lès-Echirey"
+    
+        },
+    
+        {
+            "name": "Hopital.fr au service de votre santé",
+            "speciality": "Chirurgie vasculaire ",
+            "phone": "09 81 91 31 11",
+            "address": "Paris, France"
+    
+        },
+    
+        {
+            "name": "service radiologie Jean-Jacques Lelong",
+            "speciality": "radiologie",
+            "phone": "05 40 07 83 88",
+            "address": "2 Allée Docteur Robert Lafon, 64100 Bayonne"
+        }
+        ]
+
+
+}
+}
+	
